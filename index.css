@@ -1,0 +1,13 @@
+.gradient {
+    background: linear-gradient(120deg,#f57070,#0ea0ff) !important;
+    color: #fff;
+}
+
+.profiles i{
+    padding-right: 20px;
+}
+
+.community{
+    text-align: center;
+    vertical-align: middle;
+}
